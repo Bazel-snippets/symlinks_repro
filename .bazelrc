@@ -1,0 +1,4 @@
+build --experimental_allow_unresolved_symlinks
+
+# This is not relevant for the repro
+build:fastbuild --compilation_mode fastbuild
